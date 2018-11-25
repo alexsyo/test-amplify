@@ -28,4 +28,4 @@ yarn-error.log*
 
 # secrets
 /src/aws-exports.js
-/src/config
+
